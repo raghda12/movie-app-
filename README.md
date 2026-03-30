@@ -1,4 +1,4 @@
-# 🎬 Movie Browser App
+# 🎬 Movie App
 
 A modern, responsive movie browsing web application built using **HTML, CSS, and Vanilla JavaScript**.  
 The app fetches movie data from an external API and allows users to explore, preview, and search for movies.
